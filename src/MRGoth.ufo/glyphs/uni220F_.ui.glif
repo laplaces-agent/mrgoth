@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni220F.ui" format="2">
+  <advance width="147"/>
+  <outline>
+    <contour>
+      <point x="14" y="89" type="line"/>
+      <point x="14" y="174" type="line"/>
+      <point x="132" y="174" type="line"/>
+      <point x="132" y="3" type="line"/>
+      <point x="112" y="3" type="line"/>
+      <point x="112" y="155" type="line"/>
+      <point x="34" y="155" type="line"/>
+      <point x="34" y="3" type="line"/>
+      <point x="14" y="3" type="line"/>
+    </contour>
+  </outline>
+</glyph>

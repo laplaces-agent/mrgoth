@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2020.ui" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="51" y="189" type="line"/>
+      <point x="77" y="189" type="line"/>
+      <point x="74" y="140" type="line"/>
+      <point x="123" y="143" type="line"/>
+      <point x="123" y="117" type="line"/>
+      <point x="74" y="120" type="line"/>
+      <point x="77" y="83" type="line"/>
+      <point x="74" y="59" type="line"/>
+      <point x="74" y="-19" type="line"/>
+      <point x="54" y="-19" type="line"/>
+      <point x="54" y="59" type="line"/>
+      <point x="51" y="83" type="line"/>
+      <point x="54" y="120" type="line"/>
+      <point x="5" y="117" type="line"/>
+      <point x="5" y="143" type="line"/>
+      <point x="54" y="140" type="line"/>
+    </contour>
+  </outline>
+</glyph>

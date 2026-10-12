@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AC.ui" format="2">
+  <advance width="151"/>
+  <outline>
+    <contour>
+      <point x="7" y="165" type="line"/>
+      <point x="7" y="174" type="line"/>
+      <point x="144" y="174" type="line"/>
+      <point x="144" y="155" type="line"/>
+      <point x="87" y="155" type="line"/>
+      <point x="87" y="3" type="line"/>
+      <point x="100" y="3" type="line"/>
+      <point x="100" y="-32" type="line"/>
+      <point x="90" y="-32" type="line"/>
+      <point x="81" y="3" type="line"/>
+      <point x="64" y="3" type="line"/>
+      <point x="64" y="155" type="line"/>
+      <point x="7" y="155" type="line"/>
+    </contour>
+  </outline>
+</glyph>

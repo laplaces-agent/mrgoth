@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF3B.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="44" y="89" type="line"/>
+      <point x="44" y="200" type="line"/>
+      <point x="107" y="200" type="line"/>
+      <point x="107" y="184" type="line"/>
+      <point x="61" y="184" type="line"/>
+      <point x="61" y="-7" type="line"/>
+      <point x="107" y="-7" type="line"/>
+      <point x="107" y="-23" type="line"/>
+      <point x="44" y="-23" type="line"/>
+    </contour>
+  </outline>
+</glyph>

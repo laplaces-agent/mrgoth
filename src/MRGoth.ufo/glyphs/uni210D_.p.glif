@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni210D.p" format="2">
+  <advance width="170"/>
+  <outline>
+    <contour>
+      <point x="16" y="88" type="line"/>
+      <point x="16" y="174" type="line"/>
+      <point x="61" y="174" type="line"/>
+      <point x="61" y="111" type="line"/>
+      <point x="109" y="111" type="line"/>
+      <point x="109" y="174" type="line"/>
+      <point x="154" y="174" type="line"/>
+      <point x="154" y="2" type="line"/>
+      <point x="109" y="2" type="line"/>
+      <point x="109" y="66" type="line"/>
+      <point x="61" y="66" type="line"/>
+      <point x="61" y="2" type="line"/>
+      <point x="16" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="136" type="line"/>
+      <point x="54" y="167" type="line"/>
+      <point x="23" y="167" type="line"/>
+      <point x="23" y="9" type="line"/>
+      <point x="54" y="9" type="line"/>
+      <point x="54" y="74" type="line"/>
+      <point x="116" y="73" type="line"/>
+      <point x="116" y="9" type="line"/>
+      <point x="147" y="9" type="line"/>
+      <point x="147" y="167" type="line"/>
+      <point x="116" y="167" type="line"/>
+      <point x="116" y="104" type="line"/>
+      <point x="54" y="104" type="line"/>
+    </contour>
+  </outline>
+</glyph>

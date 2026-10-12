@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF36.vert.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="39" y="202" type="line"/>
+      <point x="65" y="202" type="line"/>
+      <point x="127" y="55" type="line"/>
+      <point x="129" y="55" type="line"/>
+      <point x="191" y="202" type="line"/>
+      <point x="217" y="202" type="line"/>
+      <point x="140" y="29" type="line"/>
+      <point x="116" y="29" type="line"/>
+    </contour>
+  </outline>
+</glyph>

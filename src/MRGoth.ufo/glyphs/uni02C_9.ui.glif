@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02C9.ui" format="2">
+  <advance width="98"/>
+  <outline>
+    <contour>
+      <point x="10" y="199" type="line"/>
+      <point x="10" y="204" type="line"/>
+      <point x="87" y="204" type="line"/>
+      <point x="87" y="193" type="line"/>
+      <point x="10" y="193" type="line"/>
+    </contour>
+  </outline>
+</glyph>

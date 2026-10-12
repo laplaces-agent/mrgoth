@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF56.vert.ui" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="67" y="202" type="line"/>
+      <point x="67" y="203" type="line"/>
+      <point x="93" y="203" type="line"/>
+      <point x="128" y="116" type="line"/>
+      <point x="130" y="116" type="line"/>
+      <point x="165" y="203" type="line"/>
+      <point x="191" y="203" type="line"/>
+      <point x="141" y="89" type="line"/>
+      <point x="117" y="89" type="line"/>
+    </contour>
+  </outline>
+</glyph>

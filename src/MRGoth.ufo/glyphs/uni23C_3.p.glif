@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni23C3.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="122" y="206" type="line"/>
+      <point x="122" y="220" type="line"/>
+      <point x="133" y="220" type="line"/>
+      <point x="133" y="192" type="line"/>
+      <point x="246" y="11" type="line"/>
+      <point x="133" y="11" type="line"/>
+      <point x="133" y="-35" type="line"/>
+      <point x="122" y="-35" type="line"/>
+      <point x="122" y="11" type="line"/>
+      <point x="9" y="11" type="line"/>
+      <point x="122" y="192" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="22" type="line"/>
+      <point x="122" y="173" type="line"/>
+      <point x="29" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="98" type="line"/>
+      <point x="133" y="173" type="line"/>
+      <point x="133" y="22" type="line"/>
+      <point x="226" y="22" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2227.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="117" y="171" type="line"/>
+      <point x="129" y="196" type="line"/>
+      <point x="221" y="-5" type="line"/>
+      <point x="202" y="-14" type="line"/>
+      <point x="129" y="146" type="line"/>
+      <point x="56" y="-14" type="line"/>
+      <point x="37" y="-5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

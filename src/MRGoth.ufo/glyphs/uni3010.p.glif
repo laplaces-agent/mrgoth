@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3010.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="30" y="92" type="line"/>
+      <point x="30" y="208" type="line"/>
+      <point x="107" y="208" type="line"/>
+      <point x="107" y="200" type="line"/>
+      <point x="106" y="199" type="line"/>
+      <point x="55" y="161"/>
+      <point x="56" y="91" type="qcurve" smooth="yes"/>
+      <point x="57" y="23"/>
+      <point x="106" y="-15" type="qcurve"/>
+      <point x="107" y="-16" type="line"/>
+      <point x="107" y="-24" type="line"/>
+      <point x="30" y="-24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

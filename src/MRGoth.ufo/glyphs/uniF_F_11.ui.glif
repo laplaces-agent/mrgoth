@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF11.ui" format="2">
+  <advance width="175"/>
+  <outline>
+    <contour>
+      <point x="93" y="175" type="qcurve"/>
+      <point x="93" y="176" type="line"/>
+      <point x="109" y="176" type="line"/>
+      <point x="109" y="3" type="line"/>
+      <point x="86" y="3" type="line"/>
+      <point x="86" y="136" type="line"/>
+      <point x="36" y="136" type="line"/>
+      <point x="36" y="152" type="line"/>
+      <point x="41" y="152" type="line" smooth="yes"/>
+      <point x="80" y="153"/>
+    </contour>
+  </outline>
+</glyph>

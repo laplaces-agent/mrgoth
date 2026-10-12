@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF3D" format="2">
+  <advance width="256"/>
+  <unicode hex="FF3D"/>
+  <outline>
+    <contour>
+      <point x="20" y="192" type="line"/>
+      <point x="20" y="200" type="line"/>
+      <point x="83" y="200" type="line"/>
+      <point x="83" y="-23" type="line"/>
+      <point x="20" y="-23" type="line"/>
+      <point x="20" y="-7" type="line"/>
+      <point x="66" y="-7" type="line"/>
+      <point x="66" y="184" type="line"/>
+      <point x="20" y="184" type="line"/>
+    </contour>
+  </outline>
+</glyph>

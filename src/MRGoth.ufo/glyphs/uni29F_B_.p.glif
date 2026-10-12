@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni29FB.p" format="2">
+  <advance width="141"/>
+  <outline>
+    <contour>
+      <point x="21" y="144" type="line"/>
+      <point x="21" y="187" type="line"/>
+      <point x="38" y="187" type="line"/>
+      <point x="38" y="100" type="line"/>
+      <point x="61" y="100" type="line"/>
+      <point x="61" y="187" type="line"/>
+      <point x="78" y="187" type="line"/>
+      <point x="78" y="100" type="line"/>
+      <point x="101" y="100" type="line"/>
+      <point x="101" y="187" type="line"/>
+      <point x="118" y="187" type="line"/>
+      <point x="118" y="100" type="line"/>
+      <point x="132" y="100" type="line"/>
+      <point x="132" y="84" type="line"/>
+      <point x="118" y="84" type="line"/>
+      <point x="118" y="-2" type="line"/>
+      <point x="101" y="-2" type="line"/>
+      <point x="101" y="84" type="line"/>
+      <point x="78" y="84" type="line"/>
+      <point x="78" y="-2" type="line"/>
+      <point x="61" y="-2" type="line"/>
+      <point x="61" y="84" type="line"/>
+      <point x="38" y="84" type="line"/>
+      <point x="38" y="-2" type="line"/>
+      <point x="21" y="-2" type="line"/>
+      <point x="21" y="84" type="line"/>
+      <point x="8" y="84" type="line"/>
+      <point x="8" y="100" type="line"/>
+      <point x="21" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

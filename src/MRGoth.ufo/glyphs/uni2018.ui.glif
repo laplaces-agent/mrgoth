@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2018.ui" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="94" y="205" type="line"/>
+      <point x="106" y="205" type="line"/>
+      <point x="86" y="174" type="line"/>
+      <point x="102" y="174" type="line"/>
+      <point x="102" y="143" type="line"/>
+      <point x="71" y="143" type="line"/>
+      <point x="71" y="174" type="line"/>
+    </contour>
+  </outline>
+</glyph>

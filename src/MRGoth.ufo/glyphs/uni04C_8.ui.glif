@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04C8.ui" format="2">
+  <advance width="143"/>
+  <outline>
+    <contour>
+      <point x="17" y="59" type="line"/>
+      <point x="17" y="115" type="line"/>
+      <point x="37" y="115" type="line"/>
+      <point x="37" y="70" type="line"/>
+      <point x="106" y="70" type="line"/>
+      <point x="106" y="115" type="line"/>
+      <point x="126" y="115" type="line"/>
+      <point x="126" y="8" type="line"/>
+      <point x="122" y="-32"/>
+      <point x="87" y="-32" type="qcurve" smooth="yes"/>
+      <point x="85" y="-32"/>
+      <point x="83" y="-32" type="qcurve"/>
+      <point x="47" y="-29"/>
+      <point x="47" y="16" type="qcurve" smooth="yes"/>
+      <point x="47" y="17" type="line"/>
+      <point x="69" y="17" type="line"/>
+      <point x="69" y="16" type="line" smooth="yes"/>
+      <point x="69" y="2"/>
+      <point x="78" y="-14"/>
+      <point x="86" y="-14" type="qcurve" smooth="yes"/>
+      <point x="87" y="-14"/>
+      <point x="88" y="-14" type="qcurve" smooth="yes"/>
+      <point x="103" y="-14"/>
+      <point x="106" y="7" type="qcurve"/>
+      <point x="106" y="54" type="line"/>
+      <point x="37" y="54" type="line"/>
+      <point x="37" y="3" type="line"/>
+      <point x="17" y="3" type="line"/>
+    </contour>
+  </outline>
+</glyph>

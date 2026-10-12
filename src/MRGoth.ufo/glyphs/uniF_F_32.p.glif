@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF32.p" format="2">
+  <advance width="194"/>
+  <outline>
+    <contour>
+      <point x="21" y="89" type="line"/>
+      <point x="21" y="174" type="line"/>
+      <point x="129" y="174" type="line"/>
+      <point x="152" y="171"/>
+      <point x="176" y="144"/>
+      <point x="176" y="122" type="qcurve" smooth="yes"/>
+      <point x="175" y="80"/>
+      <point x="130" y="72" type="qcurve"/>
+      <point x="128" y="72" type="line"/>
+      <point x="187" y="3" type="line"/>
+      <point x="154" y="3" type="line"/>
+      <point x="101" y="71" type="line"/>
+      <point x="44" y="71" type="line"/>
+      <point x="44" y="3" type="line"/>
+      <point x="21" y="3" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="152" type="qcurve"/>
+      <point x="44" y="152" type="line"/>
+      <point x="44" y="93" type="line"/>
+      <point x="123" y="93" type="line"/>
+      <point x="150" y="97"/>
+      <point x="150" y="124" type="qcurve" smooth="yes"/>
+      <point x="150" y="125"/>
+      <point x="150" y="127" type="qcurve"/>
+      <point x="148" y="150"/>
+    </contour>
+  </outline>
+</glyph>

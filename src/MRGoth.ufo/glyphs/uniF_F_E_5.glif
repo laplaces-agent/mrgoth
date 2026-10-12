@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFFE5" format="2">
+  <advance width="256"/>
+  <unicode hex="FFE5"/>
+  <outline>
+    <contour>
+      <point x="50" y="168" type="line"/>
+      <point x="46" y="174" type="line"/>
+      <point x="74" y="174" type="line"/>
+      <point x="127" y="98" type="line"/>
+      <point x="130" y="98" type="line"/>
+      <point x="183" y="174" type="line"/>
+      <point x="211" y="174" type="line"/>
+      <point x="140" y="79" type="line"/>
+      <point x="140" y="75" type="line"/>
+      <point x="198" y="75" type="line"/>
+      <point x="198" y="63" type="line"/>
+      <point x="140" y="63" type="line"/>
+      <point x="140" y="43" type="line"/>
+      <point x="198" y="43" type="line"/>
+      <point x="198" y="31" type="line"/>
+      <point x="140" y="31" type="line"/>
+      <point x="140" y="3" type="line"/>
+      <point x="117" y="3" type="line"/>
+      <point x="117" y="31" type="line"/>
+      <point x="58" y="31" type="line"/>
+      <point x="58" y="43" type="line"/>
+      <point x="117" y="43" type="line"/>
+      <point x="117" y="63" type="line"/>
+      <point x="58" y="63" type="line"/>
+      <point x="58" y="75" type="line"/>
+      <point x="117" y="75" type="line"/>
+      <point x="117" y="79" type="line"/>
+    </contour>
+  </outline>
+</glyph>

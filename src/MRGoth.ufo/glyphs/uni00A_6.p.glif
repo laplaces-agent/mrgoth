@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00A6.p" format="2">
+  <advance width="58"/>
+  <outline>
+    <contour>
+      <point x="20" y="163" type="line"/>
+      <point x="20" y="220" type="line"/>
+      <point x="37" y="220" type="line"/>
+      <point x="37" y="106" type="line"/>
+      <point x="20" y="106" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="22" type="line"/>
+      <point x="20" y="79" type="line"/>
+      <point x="37" y="79" type="line"/>
+      <point x="37" y="-35" type="line"/>
+      <point x="20" y="-35" type="line"/>
+    </contour>
+  </outline>
+</glyph>

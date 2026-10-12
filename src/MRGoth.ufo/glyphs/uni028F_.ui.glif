@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni028F.ui" format="2">
+  <advance width="138"/>
+  <outline>
+    <contour>
+      <point x="9" y="113" type="line"/>
+      <point x="8" y="115" type="line"/>
+      <point x="32" y="115" type="line"/>
+      <point x="69" y="70" type="line"/>
+      <point x="107" y="115" type="line"/>
+      <point x="131" y="115" type="line"/>
+      <point x="79" y="53" type="line"/>
+      <point x="79" y="3" type="line"/>
+      <point x="59" y="3" type="line"/>
+      <point x="59" y="53" type="line"/>
+    </contour>
+  </outline>
+</glyph>

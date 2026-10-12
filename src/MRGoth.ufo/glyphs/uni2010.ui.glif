@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2010.ui" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="31" y="66" type="line"/>
+      <point x="31" y="75" type="line"/>
+      <point x="96" y="75" type="line"/>
+      <point x="96" y="56" type="line"/>
+      <point x="31" y="56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

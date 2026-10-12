@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF54" format="2">
+  <advance width="256"/>
+  <unicode hex="FF54"/>
+  <outline>
+    <contour>
+      <point x="108" y="135" type="line"/>
+      <point x="108" y="155" type="line"/>
+      <point x="132" y="155" type="line"/>
+      <point x="132" y="115" type="line"/>
+      <point x="162" y="115" type="line"/>
+      <point x="162" y="96" type="line"/>
+      <point x="132" y="96" type="line"/>
+      <point x="132" y="32" type="line"/>
+      <point x="133" y="25"/>
+      <point x="140" y="24" type="qcurve"/>
+      <point x="165" y="24" type="line"/>
+      <point x="165" y="2" type="line"/>
+      <point x="128" y="2" type="line"/>
+      <point x="111" y="5"/>
+      <point x="108" y="25" type="qcurve"/>
+      <point x="108" y="96" type="line"/>
+      <point x="88" y="96" type="line"/>
+      <point x="88" y="115" type="line"/>
+      <point x="108" y="115" type="line"/>
+    </contour>
+  </outline>
+</glyph>

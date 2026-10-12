@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF29" format="2">
+  <advance width="256"/>
+  <unicode hex="FF29"/>
+  <outline>
+    <contour>
+      <point x="103" y="163" type="line"/>
+      <point x="103" y="174" type="line"/>
+      <point x="154" y="174" type="line"/>
+      <point x="154" y="152" type="line"/>
+      <point x="140" y="152" type="line"/>
+      <point x="140" y="25" type="line"/>
+      <point x="154" y="25" type="line"/>
+      <point x="154" y="3" type="line"/>
+      <point x="103" y="3" type="line"/>
+      <point x="103" y="25" type="line"/>
+      <point x="117" y="25" type="line"/>
+      <point x="117" y="152" type="line"/>
+      <point x="103" y="152" type="line"/>
+    </contour>
+  </outline>
+</glyph>

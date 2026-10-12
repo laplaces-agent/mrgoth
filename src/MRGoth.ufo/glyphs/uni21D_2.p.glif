@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21D2.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="162" y="153" type="line"/>
+      <point x="170" y="160" type="line"/>
+      <point x="237" y="93" type="line"/>
+      <point x="170" y="26" type="line"/>
+      <point x="155" y="41" type="line"/>
+      <point x="170" y="56" type="line"/>
+      <point x="21" y="56" type="line"/>
+      <point x="21" y="76" type="line"/>
+      <point x="190" y="76" type="line"/>
+      <point x="207" y="93" type="line"/>
+      <point x="190" y="110" type="line"/>
+      <point x="21" y="110" type="line"/>
+      <point x="21" y="130" type="line"/>
+      <point x="170" y="130" type="line"/>
+      <point x="155" y="145" type="line"/>
+    </contour>
+  </outline>
+</glyph>

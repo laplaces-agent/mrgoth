@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2019.vert" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="48" y="205" type="line"/>
+      <point x="60" y="205" type="line"/>
+      <point x="40" y="174" type="line"/>
+      <point x="56" y="174" type="line"/>
+      <point x="56" y="143" type="line"/>
+      <point x="25" y="143" type="line"/>
+      <point x="25" y="174" type="line"/>
+    </contour>
+  </outline>
+</glyph>

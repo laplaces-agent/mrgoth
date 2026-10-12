@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25A0.ui" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="37" y="88" type="line"/>
+      <point x="37" y="180" type="line"/>
+      <point x="221" y="180" type="line"/>
+      <point x="221" y="-4" type="line"/>
+      <point x="37" y="-4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

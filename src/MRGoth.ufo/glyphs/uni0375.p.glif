@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0375.p" format="2">
+  <advance width="73"/>
+  <outline>
+    <contour>
+      <point x="33" y="-1" type="line"/>
+      <point x="36" y="3" type="line"/>
+      <point x="66" y="3" type="line"/>
+      <point x="24" y="-32" type="line"/>
+      <point x="7" y="-32" type="line"/>
+    </contour>
+  </outline>
+</glyph>

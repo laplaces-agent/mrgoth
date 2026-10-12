@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF01.ui" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="112" y="173" type="line"/>
+      <point x="112" y="174" type="line"/>
+      <point x="144" y="174" type="line"/>
+      <point x="139" y="65" type="line"/>
+      <point x="117" y="65" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="18" type="line"/>
+      <point x="114" y="32" type="line"/>
+      <point x="142" y="32" type="line"/>
+      <point x="142" y="3" type="line"/>
+      <point x="114" y="3" type="line"/>
+    </contour>
+  </outline>
+</glyph>

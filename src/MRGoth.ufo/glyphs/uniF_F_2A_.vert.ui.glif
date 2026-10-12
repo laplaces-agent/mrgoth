@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF2A.vert.ui" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="159" y="143" type="line"/>
+      <point x="159" y="202" type="line"/>
+      <point x="182" y="202" type="line"/>
+      <point x="182" y="79" type="line"/>
+      <point x="180" y="64"/>
+      <point x="171" y="46"/>
+      <point x="162" y="39" type="qcurve" smooth="yes"/>
+      <point x="146" y="27"/>
+      <point x="122" y="27" type="qcurve" smooth="yes"/>
+      <point x="92" y="27"/>
+      <point x="60" y="64"/>
+      <point x="60" y="98" type="qcurve" smooth="yes"/>
+      <point x="60" y="100" type="line"/>
+      <point x="83" y="100" type="line"/>
+      <point x="83" y="98" type="line" smooth="yes"/>
+      <point x="83" y="75"/>
+      <point x="90" y="64" type="qcurve" smooth="yes"/>
+      <point x="94" y="57"/>
+      <point x="112" y="48"/>
+      <point x="122" y="48" type="qcurve" smooth="yes"/>
+      <point x="157" y="48"/>
+      <point x="159" y="83" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

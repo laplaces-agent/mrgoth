@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni207C.ui" format="2">
+  <advance width="74"/>
+  <outline>
+    <contour>
+      <point x="7" y="154" type="line"/>
+      <point x="7" y="159" type="line"/>
+      <point x="66" y="159" type="line"/>
+      <point x="66" y="149" type="line"/>
+      <point x="7" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="7" y="124" type="line"/>
+      <point x="7" y="129" type="line"/>
+      <point x="66" y="129" type="line"/>
+      <point x="66" y="119" type="line"/>
+      <point x="7" y="119" type="line"/>
+    </contour>
+  </outline>
+</glyph>

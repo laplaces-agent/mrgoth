@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE45.p" format="2">
+  <advance width="128"/>
+  <outline>
+    <contour>
+      <point x="39" y="124" type="qcurve" smooth="yes"/>
+      <point x="43" y="127"/>
+      <point x="48" y="132" type="qcurve"/>
+      <point x="50" y="130"/>
+      <point x="53" y="128"/>
+      <point x="54" y="127" type="qcurve"/>
+      <point x="81" y="105"/>
+      <point x="102" y="81" type="qcurve"/>
+      <point x="103" y="79" type="line"/>
+      <point x="93" y="68" type="line"/>
+      <point x="82" y="57" type="line"/>
+      <point x="80" y="59"/>
+      <point x="80" y="60" type="qcurve"/>
+      <point x="56" y="88"/>
+      <point x="29" y="114" type="qcurve" smooth="yes"/>
+      <point x="28" y="115" type="line"/>
+      <point x="29" y="116" type="line"/>
+      <point x="35" y="121"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.mincho-trace.settings</key>
+      <dict>
+        <key>alphamax</key>
+        <real>0.6</real>
+        <key>cu2qu_err</key>
+        <real>0.1</real>
+        <key>line_tol</key>
+        <real>0.0</real>
+        <key>scale</key>
+        <integer>16</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni005B.ui" format="2">
+  <advance width="86"/>
+  <outline>
+    <contour>
+      <point x="20" y="89" type="line"/>
+      <point x="20" y="200" type="line"/>
+      <point x="83" y="200" type="line"/>
+      <point x="83" y="184" type="line"/>
+      <point x="37" y="184" type="line"/>
+      <point x="37" y="-7" type="line"/>
+      <point x="83" y="-7" type="line"/>
+      <point x="83" y="-23" type="line"/>
+      <point x="20" y="-23" type="line"/>
+    </contour>
+  </outline>
+</glyph>

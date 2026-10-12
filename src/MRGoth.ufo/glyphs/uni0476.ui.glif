@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0476.ui" format="2">
+  <advance width="170"/>
+  <outline>
+    <contour>
+      <point x="19" y="219" type="line"/>
+      <point x="49" y="219" type="line"/>
+      <point x="78" y="184" type="line"/>
+      <point x="61" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="219" type="line"/>
+      <point x="89" y="219" type="line"/>
+      <point x="118" y="184" type="line"/>
+      <point x="101" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="4" y="174" type="line"/>
+      <point x="28" y="174" type="line"/>
+      <point x="71" y="35" type="line"/>
+      <point x="113" y="157" type="line"/>
+      <point x="120" y="171"/>
+      <point x="136" y="174" type="qcurve"/>
+      <point x="163" y="174" type="line"/>
+      <point x="163" y="152" type="line"/>
+      <point x="145" y="152" type="line"/>
+      <point x="135" y="150"/>
+      <point x="130" y="138" type="qcurve" smooth="yes"/>
+      <point x="81" y="3" type="line"/>
+      <point x="61" y="3" type="line"/>
+    </contour>
+  </outline>
+</glyph>

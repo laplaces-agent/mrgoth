@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF4A.vert.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="118" y="191" type="line"/>
+      <point x="118" y="206" type="line"/>
+      <point x="141" y="206" type="line"/>
+      <point x="141" y="175" type="line"/>
+      <point x="118" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="87" type="line"/>
+      <point x="118" y="148" type="line"/>
+      <point x="141" y="148" type="line"/>
+      <point x="141" y="22" type="line"/>
+      <point x="138" y="2"/>
+      <point x="118" y="-1" type="qcurve"/>
+      <point x="91" y="-1" type="line"/>
+      <point x="91" y="18" type="line"/>
+      <point x="100" y="18" type="line" smooth="yes"/>
+      <point x="107" y="18"/>
+      <point x="111" y="18"/>
+      <point x="112" y="19" type="qcurve"/>
+      <point x="116" y="20"/>
+      <point x="118" y="25" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

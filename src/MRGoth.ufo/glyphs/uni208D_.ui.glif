@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni208D.ui" format="2">
+  <advance width="54"/>
+  <outline>
+    <contour>
+      <point x="36" y="96" type="qcurve" smooth="yes"/>
+      <point x="38" y="98" type="line"/>
+      <point x="45" y="91" type="line"/>
+      <point x="43" y="89" type="line" smooth="yes"/>
+      <point x="23" y="69"/>
+      <point x="23" y="44" type="qcurve" smooth="yes"/>
+      <point x="23" y="18"/>
+      <point x="43" y="-2" type="qcurve" smooth="yes"/>
+      <point x="45" y="-4" type="line"/>
+      <point x="38" y="-11" type="line"/>
+      <point x="36" y="-9" type="line" smooth="yes"/>
+      <point x="17" y="10"/>
+      <point x="14" y="33" type="qcurve" smooth="yes"/>
+      <point x="13" y="39"/>
+      <point x="13" y="44" type="qcurve" smooth="yes"/>
+      <point x="13" y="72"/>
+    </contour>
+  </outline>
+</glyph>

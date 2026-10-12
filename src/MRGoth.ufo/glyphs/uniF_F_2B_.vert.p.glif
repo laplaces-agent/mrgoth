@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF2B.vert.p" format="2">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="56" y="117" type="line"/>
+      <point x="56" y="202" type="line"/>
+      <point x="80" y="202" type="line"/>
+      <point x="80" y="118" type="line"/>
+      <point x="178" y="202" type="line"/>
+      <point x="213" y="202" type="line"/>
+      <point x="136" y="135" type="line"/>
+      <point x="223" y="31" type="line"/>
+      <point x="189" y="31" type="line"/>
+      <point x="118" y="121" type="line"/>
+      <point x="79" y="88" type="line"/>
+      <point x="79" y="31" type="line"/>
+      <point x="56" y="31" type="line"/>
+    </contour>
+  </outline>
+</glyph>
